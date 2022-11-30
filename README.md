@@ -1,10 +1,10 @@
 <!-- ## Hi! I'm Arthur Belo 🦎🪐 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6899eb&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+18+years+old;I+from+Pernambuco,+Brazil;I+study+systems+development+at+UFRPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf88fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+18+years+old;I+from+Pernambuco,+Brazil;I+study+systems+development+at+UFRPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/newtsarthur">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
   ![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg)
 
-  [![Ashutosh's github activity graph ](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=1a1b27&color=6fa4fc&line=37bcad&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=0d1117&color=5f8bd5&line=cf88fd&point=36b8aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ##
 
 </div>
