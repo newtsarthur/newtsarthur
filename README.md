@@ -9,8 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/newtsarthur) -->
 <div align="center">
   <a href="https://github.com/newtsarthur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Tecnologias que utilizo no meu cotidiano
