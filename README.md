@@ -60,8 +60,6 @@
   ##
 
 </div>
-
-
 Apaixonado por tecnologia, educação, linguagens de programação e por mudar a vida das pessoas através da programação.
 
 ### Últimos videos:
