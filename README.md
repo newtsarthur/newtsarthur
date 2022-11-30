@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ifnewt)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&count_private=true)
+[![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/newtsarthur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/newtsarthur)
 
 ## Tecnologias que utilizo no meu cotidiano
