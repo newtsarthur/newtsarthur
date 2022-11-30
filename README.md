@@ -1,16 +1,16 @@
 ## Hi! Eu sou o Arthur Belo 🦎🪐
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white/)](https://neewt.itch.io/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@belodev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifnewt_)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ifnewt)
-
-
 <!-- [![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/newtsarthur)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/newtsarthur) -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
+
+## My social networks
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white/)](https://neewt.itch.io/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@belodev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ifnewt_)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/ifnewt)
 
 ## Tecnologias que utilizo no meu cotidiano
 
@@ -35,3 +35,4 @@ Apaixonado por tecnologia, educação, linguagens de programação e por mudar a
 - [Como mudar o Idioma do seu celular!](https://www.youtube.com/watch?v=NrqD_xMHe70&t=9s&ab_channel=belodev)<br/>
 - [Menu responsivo e Sub menu - CSS e Javascript](https://www.youtube.com/watch?v=-Qk8jEiRuqk&ab_channel=belodev)<br/>
 - [Botão de menu - CSS e Javascript](https://www.youtube.com/watch?v=2sHo471Ml9s&ab_channel=belodev)<br/>
+
