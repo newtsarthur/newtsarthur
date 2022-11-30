@@ -1,4 +1,4 @@
-## Hi! Eu sou o Arthur Belo 🦎🪐
+## Hi! I'm Arthur Belo 🦎🪐
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white/)](https://neewt.itch.io/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@belodev)
