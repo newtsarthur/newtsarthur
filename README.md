@@ -28,10 +28,9 @@
   <a href="https://www.linkedin.com/in/arthur-belo-a7a0a221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ifnewt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=1a1b27&color=6fa4fc&line=37bcad&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   ![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg)
 
+  [![Ashutosh's github activity graph ](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=1a1b27&color=6fa4fc&line=37bcad&point=be90f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ##
 
 </div>
