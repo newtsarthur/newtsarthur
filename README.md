@@ -13,8 +13,7 @@
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="gif_Newtsarthur" height="150" style="border-radius:50px;"
-  src="https://cdn.discordapp.com/attachments/987214369983172668/1047337714099425351/Gif.gif" />
+  <img align="right" alt="gif_Newtsarthur" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/987214369983172668/1047337714099425351/Gif.gif" />
 </div>
   
   ##
