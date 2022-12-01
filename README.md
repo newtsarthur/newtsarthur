@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/arthur-belo-a7a0a221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/ifnewt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-  //![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg)
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=0d1117&color=5f8bd5&line=cf88fd&point=36b8aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ##
@@ -38,7 +38,7 @@
 Apaixonado por tecnologia, educação, linguagens de programação e por mudar a vida das pessoas através da programação.
 
 ### Últimos videos:
-- [COMO FAZER PASTEL EM CASA - Tutorial](https://www.youtube.com/watch?v=74ZxEwhf6lA&t=1s&ab_channel=belodev)<br/>
+- [Trailer - Sherloquinho](https://youtu.be/63EhSPy08VI)<br/>
 - [Como mudar o Idioma do seu celular!](https://www.youtube.com/watch?v=NrqD_xMHe70&t=9s&ab_channel=belodev)<br/>
 - [Menu responsivo e Sub menu - CSS e Javascript](https://www.youtube.com/watch?v=-Qk8jEiRuqk&ab_channel=belodev)<br/>
 - [Botão de menu - CSS e Javascript](https://www.youtube.com/watch?v=2sHo471Ml9s&ab_channel=belodev)<br/>
