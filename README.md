@@ -22,13 +22,8 @@
   ##
 
 <div> 
-  <a href = "https://neewt.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white/" target="_blank"></a>
-  <a href="https://www.youtube.com/@belodev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ifnewt" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=5VQ29QGJB86N6" target="_blank"><img src="	https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/arthur-belo-a7a0a221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/ifnewt_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
+  
   <!-- ![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg) -->
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=0d1117&color=5f8bd5&line=cf88fd&point=36b8aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
