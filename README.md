@@ -31,9 +31,3 @@
 
 </div>
 Apaixonado por tecnologia, educação, linguagens de programação e por mudar a vida das pessoas através da programação.
-
-### Últimos videos:
-- [Trailer - Sherloquinho Indie Game](https://youtu.be/63EhSPy08VI)<br/>
-- [Como mudar o Idioma do seu celular!](https://www.youtube.com/watch?v=NrqD_xMHe70&t=9s&ab_channel=belodev)<br/>
-- [Menu responsivo e Sub menu - CSS e Javascript](https://www.youtube.com/watch?v=-Qk8jEiRuqk&ab_channel=belodev)<br/>
-- [Botão de menu - CSS e Javascript](https://www.youtube.com/watch?v=2sHo471Ml9s&ab_channel=belodev)<br/>
