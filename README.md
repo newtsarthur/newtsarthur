@@ -23,11 +23,5 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/arthur-belo-a7a0a221a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <!-- ![Snake animation](https://github.com/newtsarthur/newtsarthur/blob/output/github-contribution-grid-snake.svg) -->
-
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=newtsarthur&bg_color=0d1117&color=5f8bd5&line=cf88fd&point=36b8aa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  ##
-
 </div>
 Apaixonado por tecnologia, educação, linguagens de programação e por mudar a vida das pessoas através da programação.
