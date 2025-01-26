@@ -5,10 +5,10 @@
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
-    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
     <img src="https://media.tenor.com/I2CmZJJOYjoAAAAi/sonic-death.gif" width="200" height="100">
     <img src="https://media.tenor.com/0YWJEYYlO8kAAAAi/sonic-advance-3-idle-animation.gif" width="100" height="100">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
+    <img src="https://media.tenor.com/YSzBJZA8P0cAAAAi/cat-black.gif" width="100" height="100">
   </div>
 </div>
 
