@@ -11,7 +11,7 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div>
   <a href="https://github.com/newtsarthur">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
