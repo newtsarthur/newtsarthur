@@ -13,8 +13,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <a href="https://github.com/newtsarthur">
-    <img height="190vh" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
