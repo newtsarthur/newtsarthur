@@ -4,6 +4,9 @@
 <div style="display: flex; justify-content: center; align-items: center; left: 100vh;">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
+    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
+    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
+    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
   </div>
 </div>
 
