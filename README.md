@@ -5,7 +5,7 @@
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="150" height="150">
     <img src="https://media.tenor.com/_RlQeSgosAAAAAAi/char.gif" width="80" height="70">
-    <img src="https://media.tenor.com/9x2yNne26IwAAAAi/linz-linznews.gif" width="100" height=100">
+    <img src="https://media.tenor.com/9x2yNne26IwAAAAi/linz-linznews.gif" width="150" height=100">
     <img src="https://media.tenor.com/o7-lGxrrr6UAAAAi/rayquaza-pok%C3%A9mon.gif" width="90" height="90">
     <img src="https://media.tenor.com/tFlIyydyL6YAAAAi/hacker-hackerman.gif" width="200" height="200">
   </div>
