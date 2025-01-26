@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf88fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+20+years+old;I+from+Pernambuco,+Brazil;I+study+Computer+engineering+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img src="https://i.gifer.com/4M4x.gif" width="200" height="100">
+  <img src="https://i.gifer.com/5FBP.gif" height="100">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
