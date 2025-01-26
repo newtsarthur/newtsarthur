@@ -2,9 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf88fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+20+years+old;I+from+Pernambuco,+Brazil;I+study+Computer+engineering+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img src="https://tenor.com/pt-BR/view/is-the-shadow-gif-26267515" width="200" height="100">
-  <div class="tenor-gif-embed" data-postid="26267515" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/is-the-shadow-gif-26267515">Is The Shadow Sticker</a>from <a href="https://tenor.com/search/is+the+shadow-stickers">Is The Shadow Stickers</a></div>     
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/pt-BR/view/is-the-shadow-gif-26267515" height="100">
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
