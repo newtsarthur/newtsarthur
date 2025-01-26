@@ -1,7 +1,7 @@
 <!-- ## Hi! I'm Arthur Belo 🦎🪐 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf88fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+20+years+old;I+from+Pernambuco,+Brazil;I+study+Computer+engineering+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/newtsarthur">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtsarthur&layout=compact&langs_count=7&theme=tokyonight"/>
