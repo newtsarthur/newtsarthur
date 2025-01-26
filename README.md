@@ -9,8 +9,6 @@
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
-    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
-    <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
   </div>
 </div>
 
