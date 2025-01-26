@@ -3,6 +3,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img src="https://tenor.com/pt-BR/view/is-the-shadow-gif-26267515" width="200" height="100">
+  <div class="tenor-gif-embed" data-postid="26267515" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/is-the-shadow-gif-26267515">Is The Shadow Sticker</a>from <a href="https://tenor.com/search/is+the+shadow-stickers">Is The Shadow Stickers</a></div>     
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
