@@ -8,6 +8,7 @@
     <img src="https://media.tenor.com/9x2yNne26IwAAAAi/linz-linznews.gif" width="130" height=70">
     <img src="https://media.tenor.com/o7-lGxrrr6UAAAAi/rayquaza-pok%C3%A9mon.gif" width="90" height="90">
     <img src="https://media.tenor.com/tFlIyydyL6YAAAAi/hacker-hackerman.gif" width="200" height="200">
+    <img src="https://media.tenor.com/y2OZP8gWd9AAAAAi/animated-overlay-overlay.gif" width="200" height="200">
   </div>
 </div>
 
