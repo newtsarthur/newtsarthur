@@ -15,8 +15,8 @@
 
 <br>
 
-- 📚 Sou estudante de Ciências da Computação na UNINASSAU.
-- 💻 Sou Programador Backend.
+- 📚 Bacharelando Ciências da Computação.
+- 💻 Programador Backend.
   ##
   
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
