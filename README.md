@@ -6,7 +6,7 @@
     <img src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="150" height="150">
     <img src="https://media.tenor.com/-eSidCHMot4AAAAj/is-the-shadow.gif" width="100" height="100">
     <img src="https://media.tenor.com/ivmo8TXZnr0AAAAi/mudkip-pokemon.gif" width="200" height="100">
-    <img src="https://media.tenor.com/YSzBJZA8P0cAAAAi/cat-black.gif" width="90" height="90">
+    <img src="https://media.tenor.com/o7-lGxrrr6UAAAAi/rayquaza-pok%C3%A9mon.gif" width="90" height="90">
     <img src="https://media.tenor.com/tFlIyydyL6YAAAAi/hacker-hackerman.gif" width="200" height="200">
   </div>
 </div>
