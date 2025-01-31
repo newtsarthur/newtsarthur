@@ -1,15 +1,9 @@
 <!-- ## Hi! I'm Arthur Belo 🦎🪐 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cf88fd&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Arthur+Belo+🦎🪐;I'm+20+years+old;I+from+Pernambuco,+Brazil;I+study+Computer+Science+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; align-items: center; left: 100vh;">
+<div align="center"">
   <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="https://media.tenor.com/NdQJBfH-r04AAAAi/rain-minecraft.gif" width="60" height="150">
     <img src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="150" height="150">
-    <img src="https://media.tenor.com/_RlQeSgosAAAAAAi/char.gif" width="80" height="70">
-    <img src="https://media.tenor.com/9x2yNne26IwAAAAi/linz-linznews.gif" width="130" height=70">
-    <img src="https://media.tenor.com/o7-lGxrrr6UAAAAi/rayquaza-pok%C3%A9mon.gif" width="90" height="90">
-    <img src="https://media.tenor.com/tFlIyydyL6YAAAAi/hacker-hackerman.gif" width="200" height="200">
-    <img src="https://media.tenor.com/NdQJBfH-r04AAAAi/rain-minecraft.gif" width="60" height="150">
   </div>
 </div>
 
