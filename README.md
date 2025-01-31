@@ -19,7 +19,7 @@
 - 💻 Programador Backend.
   ##
   
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div align="center">
   <a href="https://github.com/newtsarthur">
     <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
