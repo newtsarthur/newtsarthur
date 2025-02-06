@@ -15,7 +15,8 @@
   
 <div align="center">
   <a href="https://github.com/newtsarthur">
-    <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=newtsarthur&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+    <img height="200vh" src="https://streak-stats.demolab.com/?user=newtsarthur&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats"/>
   </a>
 </div>
 
